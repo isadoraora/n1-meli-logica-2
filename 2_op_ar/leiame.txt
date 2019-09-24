@@ -9,4 +9,4 @@ Você deverá seguir os seguintes passos:
 - Calcule o desconto do produto
 - Printe na tela a seguinte frase: "Produto xxx com desconto é R$ xxx"
 
-Dica: você pode usar a função .toFixed(digits) para limitar o numero de casas decimais do desconto.
+Dica: você pode usar a função .toFixed(digitos) para limitar o numero de casas decimais do desconto.

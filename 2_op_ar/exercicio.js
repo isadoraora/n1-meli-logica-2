@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*resposta aqui
 
 var r = require("readline-sync");
@@ -29,6 +28,3 @@ var escolhaCliente = stuff[posicao];
 var desconto = escolhaCliente.valor *(porcentagem/100);
 
 console.log(`Produto ${escolhaCliente} com desconto é R$ ${desconto.toFixed(2)}`);
-=======
-//resposta aqui
->>>>>>> a86e4fa1c34c3889402c12ab8be1928879764075

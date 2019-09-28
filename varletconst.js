@@ -43,3 +43,20 @@ const pessoa = {
 
 pessoa.nome = 'xtina';
 console.log("nome" + pessoa.nome);
+
+//Exemplos de while, do while e for:
+/*let contador = 0;
+while (contador < 6) {
+    console.log("Olá")
+    contador++;
+}
+
+do {
+    console.log("Olá");
+    contador++;
+} while (contador < 6)
+
+for (let contador = 0; contador < 6; contador++) {
+    console.log("Olá");
+}
+*/
